@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "dev",
+            "includePath": [
+                "${workspaceRoot}/include"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}/include"
+                ]
+            }
+        },
+        {
+            "name": "hyper/console",
+            "includePath": [
+                "${workspaceRoot}/packages/hyper/console/include"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}/packages/hyper/console/include"
+                ]
+            }
+        }
+    ]
+}

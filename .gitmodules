@@ -1,0 +1,3 @@
+[submodule "packages/hyper/console"]
+	path = packages/hyper/console
+	url = git@github.com:hyperlib/console.git
