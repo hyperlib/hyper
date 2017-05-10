@@ -12,6 +12,17 @@
             }
         },
         {
+            "name": "mac",
+            "includePath": [
+                "/usr/local/include"
+            ],
+            "browse": {
+                "path": [
+                    "/usr/local/include"
+                ]
+            }
+        },
+        {
             "name": "hyper/console",
             "includePath": [
                 "${workspaceRoot}/packages/hyper/console/include"
